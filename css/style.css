@@ -81,9 +81,9 @@ body section {overflow: hidden;}
 }
 
 .nav-logo {
-	color: rgb(121, 121, 121);
-	font-weight: 300;
-	font-size: 25px;
+	color: #333333;
+	font-weight: 500;
+	font-size: 38px;
 	margin-right: auto;
 	margin-left: 0;
 	letter-spacing: -1px;
@@ -381,7 +381,7 @@ body section {overflow: hidden;}
 	height: 100vh;
 	background-size: cover;
 	background-position: bottom;
-	background-image: url(../image/header1_plain.png);
+	background-image: url(../);
 }
 
 .videoPortada {
